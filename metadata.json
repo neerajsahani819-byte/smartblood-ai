@@ -1,0 +1,6 @@
+{
+  "name": "SmartBlood AI",
+  "description": "Full-Stack Emergency Blood Donor Matching Prototype with deterministic scoring, persistent SQLite database, and Gemini insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
